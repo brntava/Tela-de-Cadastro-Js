@@ -1,0 +1,20 @@
+.ms{
+    margin-left: 0.5rem !important;
+}
+
+@media (max-width: 520px){
+    .input-group .form-control{
+        width: 100% !important;
+    }
+    .top{
+        margin-top: 1.5rem;
+    }
+    form{
+        padding: 25px;
+    }
+
+    .ms{
+        margin-left: 0 !important;
+    }
+
+}
